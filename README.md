@@ -1,4 +1,4 @@
-# Node.js Basics Repository
+# node.js
 This repository contains a collection of simple **Node.js examples** that demonstrate core concepts such as running a program, working with processes, importing/exporting modules, and handling files and directories and Each folder focuses on one specific topic and is numbered for easy learning progression.
 
 ## 📂 Repository Structure
